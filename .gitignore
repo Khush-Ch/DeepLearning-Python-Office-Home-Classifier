@@ -1,0 +1,7 @@
+dataset
+outputTrain
+outputTransferLearningMobileNetV2
+outputTransferLearningResNet50
+outputTransferLearningVGG16
+venv
+dataset.rar
